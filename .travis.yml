@@ -6,11 +6,12 @@ node_js:
   - "6"
   - "8"
 install:
-  - yarn
-script: npm test
+  - npm i
+  - npm i -g codecov
+script:
+  - npm test
 notifications:
   email:
     on_failure: change
-    on_success: change
 after_success:
-  - npm run coveralls
+  - codecov
