@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/aichbauer/node-is-git-remote.svg?branch=master)](https://travis-ci.org/aichbauer/node-is-git-remote)
 [![Build status](https://ci.appveyor.com/api/projects/status/eatqdfs3a7uhniti?svg=true)](https://ci.appveyor.com/project/aichbauer/node-is-git-remote)
-[![Coverage Status](https://coveralls.io/repos/github/aichbauer/node-is-git-remote/badge.svg?branch=master)](https://coveralls.io/github/aichbauer/node-is-git-remote?branch=master)
+[![codecov](https://codecov.io/gh/aichbauer/node-is-git-remote/branch/master/graph/badge.svg)](https://codecov.io/gh/aichbauer/node-is-git-remote)
 
 ## Installation
 
