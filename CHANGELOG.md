@@ -1,3 +1,7 @@
+1.0.2 - April, 04 2020
+
+* 2c7d823 Fix: uri encode input (fix #1) (#2) (Lukas Aichbauer)
+
 1.0.1 - September, 17 2017
 
  * d0a69ce Docs: fix wrong function name (aichbauer)
